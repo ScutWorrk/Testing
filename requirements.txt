@@ -1,0 +1,7 @@
+ipython
+langchain_core
+langchain_google_genai
+Pillow
+protobuf
+python-dotenv
+streamlit
